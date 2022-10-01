@@ -1,0 +1,149 @@
+.cloud {
+position: absolute;
+width: 1920px;
+height: 1513px;
+left: 0px;
+top: -400px;
+}
+
+.bg {
+position: absolute;
+width: 1920px;
+height: 1200px;
+left: 0px;
+top: 0px;
+background: linear-gradient(330.24deg, rgba(11, 29, 38, 0) 31.06%, #0B1D26 108.93%);
+}
+
+.content1 {
+position: absolute;
+width: 950px;
+height: 313px;
+left: 500px;
+top: 287px;
+}
+
+.mg {
+position: absolute;
+width: 1920px;
+height: 1422px;
+left: 0px;
+top: 464px;
+}
+
+.vg {
+position: absolute;
+width: 1920px;
+height: 926px;
+left: 0px;
+top: 768px;
+}
+
+.bgcontent {
+position: absolute;
+width: 1920px;
+height: 700px;
+left: 0px;
+top: 1200px;
+background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #0B1D26 61.38%);
+}
+
+.social {
+position: absolute;
+width: 25px;
+height: 173px;
+left: 79px;
+top: 359px;
+}
+
+.start {
+position: absolute;
+width: 77px;
+height: 240px;
+left: 1763px;
+top: 326px;
+filter: drop-shadow(0px 0px 100px rgba(0, 0, 0, 0.2));
+}
+
+.equipment {
+position: absolute;
+width: 96px;
+height: 25px;
+left: 600px;
+top: 2px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 25px;
+color: #FFFFFF;
+}
+
+.stick {
+position: absolute;
+width: 72px;
+height: 2px;
+left: 345px;
+top: 327px;
+background: #FBD784;
+}
+
+.text1 {
+position: absolute;
+width: 215px;
+height: 25px;
+left: 440px;
+top: 300px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+letter-spacing: 6px;
+text-transform: uppercase;
+color: #FBD784;
+}
+
+.text2 {
+position: absolute;
+width: 950px;
+height: 200px;
+left: 343px;
+top: 280px;
+font-family: 'Stylish';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 100px;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+
+.text3 {
+position: absolute;
+width: 950px;
+height: 200px;
+left:343px;
+top: 355px;
+font-family: 'Stylish';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 100px;
+text-transform: capitalize;
+color: #FFFFFF;    
+}
+
+.aboutus {
+position: absolute;
+width: 96px;
+height: 25px;
+left: 700px;
+top: 2px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 25px;
+color: #FFFFFF;
+}
